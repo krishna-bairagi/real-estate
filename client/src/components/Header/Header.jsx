@@ -29,7 +29,7 @@ const Header = () => {
         {/* logo */}
         <Link to="/">
           {/* <img src="./logo.png" alt="logo" width={100} />? */}
-          Real Estate Recommendation System
+          RERS
         </Link>
 
         {/* menu */}
